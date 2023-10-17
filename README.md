@@ -11,6 +11,7 @@
 - 주행시간 5분
 
 ## 주행 영상 
+https://youtu.be/jjAoo4PAqkE
 
 ## 팀원
 - 임현진
